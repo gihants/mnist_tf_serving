@@ -1,8 +1,5 @@
-AI Automation Engineer Challenge
-================================
+# Minimal Tf-Serving Implementation
 
-SOLUTION - GIhan Samarasinghe
-===========================
 ## Notes on the Solution
 
  - In the provided solution, a grpc client is implemented for scalability purpose.
